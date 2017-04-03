@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string-array name="spice">
+        <item>胡椒</item>
+        <item>ターメリック</item>
+        <item>生姜</item>
+        <item>コリアンダー</item>
+        <item>ニンニク</item>
+        <item>サフラン</item>
+        <item>人参</item>
+        <item>たまねぎ</item>
+    </string-array>
+</resources>
